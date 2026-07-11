@@ -15,32 +15,37 @@
   The image URLs below will then resolve automatically on GitHub.
 -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="16">
-<tr>
+<!-- HERO SECTION -->
 
-<td width="40%" valign="middle" align="center">
+<p align="center">
+  <img
+    src="./assets/Me.png"
+    width="31%"
+    alt="Aastha Pritesh Joshi — AI Engineer"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="./assets/AboutMe.png"
+    width="64%"
+    alt="Aastha — AI Engineer, Data Strategist and Forward Deployed Builder"
+  />
+</p>
 
-<img
-  src="https://raw.githubusercontent.com/AasthaPJoshi/ReadMe/main/assets/Me.png"
-  width="340"
-  alt="Aastha Pritesh Joshi — AI Engineer"
-/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aasthajoshi14">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:joshiaastha40@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/AasthaPJoshi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
-</td>
-
-<td width="60%" valign="middle" align="center">
-
-<img
-  src="https://raw.githubusercontent.com/AasthaPJoshi/ReadMe/main/assets/AboutMe.png"
-  width="100%"
-  alt="Aastha — AI Engineer, Data Strategist and Forward Deployed Builder"
-/>
-
-</td>
-</tr>
-</table>
+<hr/>
 
 ---
 
