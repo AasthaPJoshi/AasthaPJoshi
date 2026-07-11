@@ -276,16 +276,6 @@
 
 <div align="center">
 
-<!-- Stats cards stay — they show the raw numbers -->
-<img src="https://github-readme-stats.vercel.app/api?username=AasthaPJoshi&show_icons=true&theme=tokyonight&border_color=7C3AED&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaPJoshi&theme=tokyonight&border_color=7C3AED&layout=compact&langs_count=8" height="165" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AasthaPJoshi&theme=tokyonight&border=7C3AED&ring=A78BFA&fire=FF6B35&currStreakLabel=A78BFA" />
-</div>
 
 > Actively building since Jan 2025 · 2 publications · 3 production-deployed AI systems · 6 public repos
 > Most intensive work (LangGraph pipelines, eval harnesses, compliance infra) lives in private repos due to data sensitivity.
