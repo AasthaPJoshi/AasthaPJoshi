@@ -18,7 +18,7 @@
 </defs>
 
 <!-- ── BACKGROUND ── -->
-<rect width="900" height="2180" fill="#0a0a0f" rx="12"/>
+<rect width="900" height="2000" fill="#0a0a0f" rx="12"/>
 
 <!-- ── HEADER ── -->
 <rect x="0" y="0" width="900" height="90" fill="url(#header-bg)" rx="12"/>
