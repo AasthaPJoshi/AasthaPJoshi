@@ -213,6 +213,8 @@
 ## `🧠` Stack — By Layer
 
 <img src="https://raw.githubusercontent.com/AasthaPJoshi/AasthaPJoshi/main/assets/skills (1).svg" width="100%" alt="Aastha Joshi Skill Depth Map" />
+
+
 ---
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
