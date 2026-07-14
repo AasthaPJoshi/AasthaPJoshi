@@ -17,19 +17,7 @@
 
 <!-- HERO SECTION -->
 
-<p align="center">
-  <img
-    src="./assets/Me.png"
-    width="31%"
-    alt="Aastha Pritesh Joshi — AI Engineer"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="./assets/AboutMe.png"
-    width="64%"
-    alt="Aastha — AI Engineer, Data Strategist and Forward Deployed Builder"
-  />
-</p>
+
 
 <img width="1215" height="488" alt="Screenshot 2026-07-14 at 1 22 28 AM" src="https://github.com/user-attachments/assets/424bb5c1-24c5-471f-9a0a-f9ba0d78da6f" />
 
